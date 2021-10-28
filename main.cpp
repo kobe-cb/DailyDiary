@@ -4,7 +4,7 @@ using namespace std;
 #include "Diary.h"
 
 int main() {
-string userFile = "./data/userList.dat";
+string userFile = "./settings/userList.dat";
 string dataFile = "./data/entriesList.txt";
 
 //Diary Creation
